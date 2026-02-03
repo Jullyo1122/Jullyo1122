@@ -14,7 +14,7 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 
 <p align="left">
   <a href="https://github.com/Jullyo1122">
-    <img src="    https://aleen42.github.io/badges/src/stackexchange.svg" />
+    <img src="https://aleen42.github.io/badges/src/stackexchange.svg" />
   </a>
   <a href="https://www.instagram.com/jullyocodes?igsh=YTQ3MmNqNjN3M24=">
     <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
@@ -28,9 +28,9 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
