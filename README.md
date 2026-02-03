@@ -14,10 +14,10 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 
 <p align="left">
   <a href="https://github.com/Jullyo1122">
-    <img src="https://aleen42.github.io/badges/src/stackexchange.svg" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/jullyocodes?igsh=YTQ3MmNqNjN3M24=">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/jullyo-c%C3%A9sar-dos-santos-lopes-38a3052b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -48,7 +48,6 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 </p>
 
 ---
-
 
 ⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos!
 🤝 Sempre aberto a colaborações, parcerias e ideias legais
