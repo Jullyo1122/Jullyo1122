@@ -1,7 +1,7 @@
 # Olá 👋, Eu sou o Jullyo Lopes
 
 🚀 **Desenvolvedor de Software em Formação**  
-🇧🇷 Brazil
+🇧🇷 Brasil
 
 Sou um desenvolvedor focado na construção de **sistemas modernos**, utilizando**Python no back-end**, and **Angular no front-end**.   
 Gosto de transformar ideias em **soluções reais**, criando aplicações que sejam **organizadas, escaláveis e fáceis de manter**.
@@ -28,7 +28,7 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](    https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
