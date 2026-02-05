@@ -42,7 +42,7 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jullyo1122&show_icons=true&theme=radical)
 
 ---
 
