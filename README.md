@@ -14,7 +14,7 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 
 <p align="left">
   <a href="https://github.com/Jullyo1122">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"/>
   </a>
   <a href="https://www.instagram.com/jullyocodes?igsh=YTQ3MmNqNjN3M24=">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
