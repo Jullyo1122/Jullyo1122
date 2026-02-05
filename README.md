@@ -34,14 +34,9 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 ### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-## 📊 GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jullyo1122&show_icons=true&theme=radical)
-
----
 
 ⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos!
 🤝 Sempre aberto a colaborações, parcerias e ideias legais
