@@ -36,8 +36,7 @@ Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img height="140em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Jullyo1122&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"/>
-<img height="140em" src="https://github-readme-stats-fast.vercel.app/api?username=Jullyo1122&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
+<img height="140em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Jullyo1122&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=true&order=2" height="150" alt="languages graph"/> <img height="140em" src="https://github-readme-stats-fast.vercel.app/api?username=Jullyo1122&theme=transparent&show_icons=true&hide_border=true&count_private=true"/>
 
 ⭐ Se você gosta do meu trabalho, considere adicionar um repositório aos seus favoritos!
 🤝 Sempre aberto a colaborações, parcerias e ideias legais
