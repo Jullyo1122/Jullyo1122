@@ -3,7 +3,7 @@
 🚀 **Desenvolvedor de Software em Formação**  
 🇧🇷 Brasil
 
-Sou um desenvolvedor focado na construção de **sistemas modernos**, utilizando**Python no back-end**, and **Angular no front-end**.   
+Sou um desenvolvedor focado na construção de **sistemas modernos**, utilizando **Python no back-end**, and **Angular no front-end**.   
 Gosto de transformar ideias em **soluções reais**, criando aplicações que sejam **organizadas, escaláveis e fáceis de manter**.
 
 Tenho interesse constante em aprender novas tecnologias, melhorar minha lógica de programação e desenvolver projetos que unam desempenho, boa experiência do usuário e código limpo.
